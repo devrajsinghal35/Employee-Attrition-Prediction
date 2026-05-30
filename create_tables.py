@@ -1,0 +1,10 @@
+from database import engine, Base
+
+# 👇 THIS IS CRITICAL (registers tables)
+import models  
+
+print("🚀 Creating database tables...")
+
+Base.metadata.create_all(bind=engine)
+
+print("✅ All tables created successfully!")

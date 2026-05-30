@@ -256,10 +256,10 @@ Top Factors:
 
 ## 👨‍💻 Author
 
-**Devraj Singhal**
+**Prateek Vashishtha**
 
 * 📍 India
-* 💻 Cyber Security Enthusiast
+* 💻 AI & Full Stack Enthusiast
 
 ---
 
